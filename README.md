@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,11 +31,10 @@ Users should be able to:
 
 ![](./screenshot.png)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/KyleGichez/NFT-card-component)
+- Live Site URL: [Add live site URL here](https://gichezdman-nft-card-component.netlify.app/)
 
 ## My process
 
@@ -46,9 +45,10 @@ Users should be able to:
 ### What I learned
 
 I have learned how to use css variables to style my NFT card component. This has made my styling easy and very efficient as I do not have to repeat the same styles over and over again when styling diofferent elements in my card component project.
+
 ```css
-:root{
-    --primary-one: hsl(215, 51%, 70%);
+:root {
+  --primary-one: hsl(215, 51%, 70%);
   --primary-two: hsl(178, 100%, 50%);
   --neutral-one: hsl(216, 54%, 11%);
   --neutral-two: hsl(216, 51%, 16%);
@@ -68,14 +68,13 @@ However, I have encountered a problem with adding hover effect to my image. I ha
   color: var(--primary-two);
   opacity: 0.4;
 }
-
 ```
+
 ### Continued development
 
 I am actively engaging myself in solving frontend challenges at Frontend Mentor and implementing them so that I may grow and enrich my Frontend coding skills and become an efficient and excellent global developer in future. I am happy with my coding journey and my tech career.
 
- Bravo to all my fellow Frontend Masters developers.Let's keep the coding fire burning.!! 
-
+Bravo to all my fellow Frontend Masters developers.Let's keep the coding fire burning.!!
 
 ### Useful resources
 
