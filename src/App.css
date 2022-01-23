@@ -74,6 +74,7 @@ hr {
 .Footer {
   display: flex;
   align-items: center;
+  padding-bottom: 30px;
 }
 .main--image {
   width: 30px;

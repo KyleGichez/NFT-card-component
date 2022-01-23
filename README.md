@@ -79,7 +79,7 @@ Bravo to all my fellow Frontend Masters developers.Let's keep the coding fire bu
 ### Useful resources
 
 - [CSS Box shadow generator](https://cssgenerator.org/box-shadow-css-generator.html) - This helped me in generating my box-shadow for the card component. I really liked this pattern and will use it going forward.
-- [CSS Variables ](https://www.w3schools.com/css/css3_variables.asp#:~:text=First%20of%20all%3A%20CSS%20variables%20can%20have%20a,The%20%3Aroot%20selector%20matches%20the%20document%27s%20root%20element.)) - This is an amazing article which helped me finally understand CSS variables and using the :root selector for styling. I'd recommend it to anyone still learning this concept.
+- [CSS Variables](https://www.w3schools.com/css/css3_variables.asp#:~:text=First%20of%20all%3A%20CSS%20variables%20can%20have%20a,The%20%3Aroot%20selector%20matches%20the%20document%27s%20root%20element.)) - This is an amazing article which helped me finally understand CSS variables and using the :root selector for styling. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
