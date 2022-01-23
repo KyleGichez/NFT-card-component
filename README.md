@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KyleGichez/NFT-card-component)
-- Live Site URL: [Add live site URL here](https://gichezdman-nft-card-component.netlify.app/)
+- Solution URL: [GitHub](https://github.com/KyleGichez/NFT-card-component)
+- Live Site URL: [Netlify](https://gichezdman-nft-card-component.netlify.app/)
 
 ## My process
 
